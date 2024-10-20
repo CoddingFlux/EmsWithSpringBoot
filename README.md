@@ -23,13 +23,10 @@ Responsive Design:
 RESTful APIs:
             Designed with REST principles, ensuring easy integration with other systems and services.
 
-Notifications: 
-            Firebase Cloud Messaging (FCM) used to send notifications for important updates, such as new hires or policy changes.
-
 # Technologies Used:
             Spring Boot: For developing a scalable backend with robust RESTful services.
 
-            Firebase: For authentication, real-time database, and cloud messaging.
+            Firebase: For authentication, real-time database.
             
             Bootstrap: For responsive and mobile-friendly UI.
             
