@@ -17,6 +17,9 @@ CRUD Operations:
 Role-Based Access Control (RBAC):
             Allows assigning different roles and permissions to users, enhancing security and functionality.
 
+Mobile Access with Android App: 
+            A fully integrated Android app allows employees and administrators to access the system on mobile devices, with key features such as employee record viewing, notifications, and updates available in real time.
+
 Responsive Design:
             Built with Bootstrap for a responsive UI that works on both desktop and mobile devices.
 
@@ -24,10 +27,14 @@ RESTful APIs:
             Designed with REST principles, ensuring easy integration with other systems and services.
 
 # Technologies Used:
-            Spring Boot: For developing a scalable backend with robust RESTful services.
+            Spring Boot: 
+                    For developing a scalable backend with robust RESTful services.
 
-            Firebase: For authentication, real-time database.
+            Firebase:
+                    For authentication, real-time database.
             
-            Bootstrap: For responsive and mobile-friendly UI.
-            
-            MySQL (optional): Can be integrated for storing non-realtime data, such as archived employee information.
+            Android (Java):
+                    For building a mobile app that connects to the backend API and Firebase services, enabling mobile    access to employee data.
+
+            Bootstrap: 
+                    For responsive and mobile-friendly UI.
